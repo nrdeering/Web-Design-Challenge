@@ -1,0 +1,85 @@
+.navbar {
+    background-color: white;
+    height: 85px;
+  }
+  
+  .navbar-brand {
+      background-color: rgb(8, 172, 158);
+      -webkit-text-fill-color: white;
+      font-size: 30px;
+      padding: 20px;
+      margin-left: 60px;
+  }
+
+  h1 {
+    color: rgb(8, 172, 158);
+  }
+
+  h2 {
+    color: rgb(8, 172, 158);
+  }
+  body {
+    background-color: lightgrey;
+  }
+
+  .container {
+    align-content: center;
+  }
+  .imageNav-content {
+    background: white;
+    width: 475px;
+    padding: 30px;
+  }
+  .col-md-8 {
+    background: white;
+    padding: 30px;
+    height: 800px;
+    margin-top: 50px;
+  }
+
+  .col-md-4 {
+    margin-top: 50px;
+  }
+
+  .description-content p {
+    font-size: 20px;
+  }
+
+  footer {
+    background: rgb(48, 47, 47);
+    height: 50px;
+    position: relative;
+    margin-bottom: -5px;
+  }
+
+  .two-toned-footer-color {
+    background: rgb(8, 172, 158);
+    border-top-width: 50px;
+    height: 5px;
+    margin-bottom: 0%;
+  }
+
+  .block_width {
+      width: 700px;
+      height: 750px;
+  }
+
+  .image_column {
+    padding: 30px;
+    height: 800px;
+    align-items: center;
+    margin-top: 10px;
+  }
+
+  .comparison p {
+      font-size: 12;
+  }
+
+  table {
+      background: white;
+      padding:30px;
+      margin-bottom: 100px;
+      position:relative; 
+      padding-bottom:50px;
+      margin-top: 25px;
+  }
